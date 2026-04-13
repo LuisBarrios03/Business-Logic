@@ -8,7 +8,7 @@ The goal is to evaluate how AI can support the manual discovery and exploitation
 
 ## Repository Structure
 
-- `Challenges/`: original benchmark challenges (unaltered)
+- `challenges/`: original benchmark challenges (unaltered)
 - `analysis/`: detailed analysis for each challenge
 - `templates/`: reusable templates for structured analysis
 - `thesis-notes/`: notes and draft material for thesis writing
