@@ -1,6 +1,12 @@
 # AI Analysis
 
-## Obiettivo
-Cosa stai cercando di capire
+## Objective
+
+What are you trying to understand?
+
+## Context
+
+Brief description of the challenge state.
 
 ## Prompt
+

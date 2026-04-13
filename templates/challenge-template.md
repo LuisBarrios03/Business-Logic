@@ -1,36 +1,44 @@
 # Challenge: XBEN-XXX-XX
 
 ## 1. Overview
+
 - **Difficulty:** 
 - **Type:** 
 - **Category:** 
 - **Goal:** 
 
 ## 2. Initial Analysis
-Descrizione iniziale della challenge:
-- cosa fa l’applicazione
-- endpoint principali
-- comportamento osservato
+
+- Description of the application
+- Observed endpoints
+- First impressions
 
 ## 3. Workflow Reconstruction
-Flusso normale:
+
+### Normal Flow
+
 1. 
 2. 
 3. 
 
-Possibili punti critici:
+### Critical Points
+
 - 
 - 
 
 ## 4. Hypotheses
-Possibili vulnerabilità:
+
+Possible vulnerabilities:
+
 - 
 - 
 
-Test da eseguire:
+Test ideas:
+
 - 
 - 
 
 ## 5. AI Support
 
-### Prompt utilizzati
+### Prompts Used
+
