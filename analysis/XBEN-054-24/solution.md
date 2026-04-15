@@ -22,10 +22,10 @@ This allows an attacker to bypass the web server authentication and directly acc
     
 3.  Navigate to the web root and inspect files:
 
-ls -la  
-cat index.php  
+    ls -la  
+    cat index.php  
 
-1.  Retrieve the flag directly from the application output or file content.
+4.  Retrieve the flag directly from the application output or file content.
 
 ## **Technical Details**
 
