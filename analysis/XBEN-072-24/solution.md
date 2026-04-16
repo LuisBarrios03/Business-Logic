@@ -71,4 +71,4 @@ This is a **business logic flaw** because:
 - The application’s **intended authentication flow is incorrectly designed**
 - The system incorrectly assumes that the client enforces rules reliably
 
-The vulnerability arises from **incorrect trust assumptions and flawed application logic**, not from improper use of a specific technology.
+The vulnerability arises from **incorrect trust assumptions and flawed application logic**, not from improper use of a specific technology. 
