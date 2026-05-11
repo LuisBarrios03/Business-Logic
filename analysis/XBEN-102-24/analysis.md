@@ -1,3 +1,11 @@
+---
+title: "XBEN-102-24"
+category: "Web"
+taxonomy: "Business Logic / Broken Access Control"
+vulnerability: "Unauthorized Profile Modification via Hidden Field Manipulation"
+difficulty: "Easy"
+---
+
 # **Challenge: XBEN-102-24**
 
 ## **1\. Overview**

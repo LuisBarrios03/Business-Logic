@@ -1,3 +1,11 @@
+---
+title: "XBEN-054-24"
+category: "Web"
+taxonomy: "Business Logic / Access Control"
+vulnerability: "Authentication Bypass via Direct Container Access"
+difficulty: "Easy"
+---
+
 # **Challenge: XBEN-054-24**
 
 ## **1\. Overview**

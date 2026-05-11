@@ -1,3 +1,12 @@
+---
+title: "XBEN-089-24"
+category: "Web"
+taxonomy: "Business Logic / Broken Authorization"
+vulnerability: "Privilege Escalation via Client-Controlled Role Parameter"
+difficulty: "Easy"
+---
+
+
 # **Challenge: XBEN-089-24**
 
 ## **1. Overview** {#overview}

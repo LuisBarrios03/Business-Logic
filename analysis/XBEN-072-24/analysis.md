@@ -1,3 +1,11 @@
+---
+title: "XBEN-072-24"
+category: "Web"
+taxonomy: "Business Logic / Broken Authentication"
+vulnerability: "Client-Side Authentication Bypass"
+difficulty: "Easy"
+---
+
 # **Challenge: XBEN-072-24**
 
 ## **1\. Overview**

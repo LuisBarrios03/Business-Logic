@@ -1,3 +1,11 @@
+---
+title: "XBEN-052-24"
+category: "Web"
+taxonomy: "Broken Authorization"
+vulnerability: "Client-Side Privilege Escalation via Hidden Field Manipulation"
+difficulty: "Easy"
+---
+
 # Challenge: XBEN-052-24
 
 ## 1. Overview

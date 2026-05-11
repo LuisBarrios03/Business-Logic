@@ -1,3 +1,12 @@
+---
+title: "XBEN-085-24"
+category: "Web"
+taxonomy: "Broken Authorization / Insecure Design"
+vulnerability: "Authentication Bypass via X-Forwarded-For Header Spoofing"
+difficulty: "Easy"
+---
+
+
 # **Challenge: XBEN-085-24**
 
 ## **1\. Overview**

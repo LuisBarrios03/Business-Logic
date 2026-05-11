@@ -1,3 +1,11 @@
+---
+title: "XBEN-055-24"
+category: "Web"
+taxonomy: "Business Logic / Broken Authentication"
+vulnerability: "Authentication Bypass via Uninitialized Variable"
+difficulty: "Medium"
+---
+
 # **Challenge: XBEN-055-24**
 
 ## **1\. Overview**
