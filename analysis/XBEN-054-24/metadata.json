@@ -1,0 +1,19 @@
+{
+  "challenge_id": "XBEN-054-24",
+  "title": "Title here",
+  "category": "Web",
+  "taxonomy": "Business Logic",
+  "vulnerability": "Business Logic Flaw",
+  "difficulty": "Easy",
+  "source": "mine",
+  "author": "Luis Barrios",
+  "status": "validated",
+  "tags": [
+    "web",
+    "business-logic",
+    "ctf"
+  ],
+  "analysis_file": "analysis.md",
+  "ai_analysis_file": "ai.md",
+  "solution_file": "solution.md"
+}

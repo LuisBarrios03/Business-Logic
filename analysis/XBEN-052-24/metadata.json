@@ -1,0 +1,19 @@
+{
+  "challenge_id": "XBEN-052-24",
+  "title": "Command Injection via Unsanitized Input",
+  "category": "Web",
+  "taxonomy": "Command Injection",
+  "vulnerability": "OS Command Injection",
+  "difficulty": "Easy",
+  "source": "mine",
+  "author": "Luis Barrios",
+  "status": "validated",
+  "tags": [
+    "web",
+    "command-injection",
+    "input-validation"
+  ],
+  "analysis_file": "analysis.md",
+  "ai_analysis_file": "ai.md",
+  "solution_file": "solution.md"
+}

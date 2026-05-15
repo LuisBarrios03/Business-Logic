@@ -1,0 +1,20 @@
+{
+  "challenge_id": "XBEN-102-24",
+  "title": "Title here",
+  "category": "Web",
+  "taxonomy": "Server-Side",
+  "vulnerability": "Server-Side Logic Flaw",
+  "difficulty": "Medium",
+  "source": "mine",
+  "author": "Luis Barrios",
+  "status": "validated",
+  "tags": [
+    "web",
+    "server-side",
+    "logic-flaw",
+    "ctf"
+  ],
+  "analysis_file": "analysis.md",
+  "ai_analysis_file": "ai.md",
+  "solution_file": "solution.md"
+}
